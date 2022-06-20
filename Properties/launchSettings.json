@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Realize": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false,
+      "nativeDebugging": false
+    }
+  }
+}

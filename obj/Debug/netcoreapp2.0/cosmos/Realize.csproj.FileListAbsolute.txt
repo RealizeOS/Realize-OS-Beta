@@ -1,0 +1,9 @@
+C:\Users\Vorty\source\repos\Realize\bin\Debug\netcoreapp2.0\cosmos\Nex.deps.json
+C:\Users\Vorty\source\repos\Realize\bin\Debug\netcoreapp2.0\cosmos\Nex.dll
+C:\Users\Vorty\source\repos\Realize\bin\Debug\netcoreapp2.0\cosmos\Nex.pdb
+C:\Users\Vorty\source\repos\Realize\obj\Debug\netcoreapp2.0\cosmos\Nex.AssemblyInfoInputs.cache
+C:\Users\Vorty\source\repos\Realize\obj\Debug\netcoreapp2.0\cosmos\Nex.AssemblyInfo.cs
+C:\Users\Vorty\source\repos\Realize\obj\Debug\netcoreapp2.0\cosmos\Nex.csproj.CoreCompileInputs.cache
+C:\Users\Vorty\source\repos\Realize\obj\Debug\netcoreapp2.0\cosmos\Nex.dll
+C:\Users\Vorty\source\repos\Realize\obj\Debug\netcoreapp2.0\cosmos\Nex.pdb
+C:\Users\Vorty\source\repos\Realize\obj\Debug\netcoreapp2.0\cosmos\Nex.csprojAssemblyReference.cache
